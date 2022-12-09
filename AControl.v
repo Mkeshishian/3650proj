@@ -1,4 +1,4 @@
-//fpga4student.com: FPGA projects, Verilog projects, VHDL projects
+
 // Verilog project: Verilog code for 16-bit MIPS Processor
 // Submodule: ALU Control Unit in Verilog 
  module ALUControl( ALU_Control, ALUOp, Function);  
