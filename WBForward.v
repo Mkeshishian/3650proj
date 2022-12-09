@@ -1,5 +1,4 @@
 `timescale 1 ps / 100 fs
-// fpga4student.com: FPGA projects, Verilog Projects, VHDL projects
 // Verilog project: 32-bit 5-stage Pipelined MIPS Processor in Verilog 
 // Write Back Forwarding 
 module WB_forward(ReadData1Out,ReadData2Out,ReadData1,ReadData2,rs,rt,WriteRegister,WriteData,RegWrite);
