@@ -1,4 +1,3 @@
-//fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 // Verilog project: Verilog code for 16-bit MIPS Processor
 // Submodule: Control Unit in Verilog 
  module control( input[2:0] opcode,  
