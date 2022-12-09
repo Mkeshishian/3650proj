@@ -1,4 +1,3 @@
-//fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 // Verilog project: Verilog code for 16-bit MIPS Processor
 // Submodule: Data memory in Verilog 
  module data_memory  
