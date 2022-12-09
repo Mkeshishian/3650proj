@@ -1,4 +1,3 @@
-// fpga4student.com: FPGA projects, Verilog Projects, VHDL projects
 // Verilog project: 32-bit 5-stage Pipelined MIPS Processor in Verilog 
 // Flush control signals 
 `timescale 1 ps / 100 fs
