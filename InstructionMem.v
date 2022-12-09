@@ -1,5 +1,4 @@
 /* Instruction memory module.  Change the $readmemb line to have the name of the program you want to load */
-// fpga4student.com: FPGA projects, Verilog Projects, VHDL projects
 // Verilog project: 32-bit 5-stage Pipelined MIPS Processor in Verilog 
 // Instruction memory module
 `timescale 1 ps / 100 fs
