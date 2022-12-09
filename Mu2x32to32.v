@@ -1,5 +1,4 @@
 `timescale 1 ps / 100 fs
-// fpga4student.com: FPGA projects, Verilog Projects, VHDL projects
 // Verilog project: 32-bit 5-stage Pipelined MIPS Processor in Verilog 
 // mux3x32to32
 module mux3x32to32(DataOut,A,B,C,Select);
