@@ -1,7 +1,5 @@
 `timescale 1 ps / 100 fs
-// fpga4student.com: FPGA projects, Verilog Projects, VHDL projects
-// Verilog project: 32-bit 5-stage Pipelined MIPS Processor in Verilog 
-// Verilog code for 32-bit adder 
+
 module Add(S,A,B);
 output [31:0] S;
 input [31:0] A,B;
